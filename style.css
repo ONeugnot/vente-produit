@@ -1,0 +1,55 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-boxs;
+}
+
+body {
+	background-color: yellow;
+}
+
+.lamborghini {
+	display: flex;
+	align-items: center;
+	padding: 2rem;
+	background-color: white;
+	width: 33rem;
+	height: 20dvh;
+	border-radius: 20px;
+}
+
+.h1-lamborghini {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: orange;
+	width: 30rem;
+	height: 30dvh;
+	font-size: 90px;
+}
+
+button {
+	display: flex;
+	border-radius: 20px;
+	align-items: center;
+	justify-content: center;
+	width: 10rem;
+	height: 5rem;
+	background-color: white;
+	box-shadow: 10px 10px black;
+}
+
+.a-btn {
+	display: flex;
+	text-align: center;
+	align-content: center;
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+
+.div-btn {
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
